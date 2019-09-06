@@ -19,7 +19,6 @@ cardview
 recyclerview
 glide
 
-URL: https://s3add.s3.us-east-2.amazonaws.com/user.json
+Modelo MVC 
 
-## Telas
-![1](1.png) ___ ![2](2.png)
+URL: https://s3add.s3.us-east-2.amazonaws.com/user.json
