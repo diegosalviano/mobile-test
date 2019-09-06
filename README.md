@@ -21,5 +21,5 @@ glide
 
 URL: https://s3add.s3.us-east-2.amazonaws.com/user.json
 
-telas
-![Tela1](1.jpeg) ___ ![Tela2](2.jpeg) ___ ![Tela3](3.jpeg) ___ ![Tela4](4.jpeg)
+## Telas
+![1](1.png) ___ ![2](2.png)
